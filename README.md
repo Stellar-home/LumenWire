@@ -142,15 +142,9 @@ It improves:
 
 ---
 
-## Tech Stack (Planned)
+## FIGMA LINK
 
-- Stellar Blockchain  
-- Smart settlement engine (Node.js / Rust optional)  
-- Bank API integrations (Nigeria payment rails)  
-- Liquidity pool management system  
-- Real-time blockchain listener  
-
----
+https://www.figma.com/design/4OtJbJMCL9PDjyl7Pse7J5/Untitled?node-id=0-1&p=f&t=SAeRF5q4Bdt6eZub-0
 
 ## License
 
