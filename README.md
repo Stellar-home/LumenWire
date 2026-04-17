@@ -10,6 +10,11 @@ Instead, settlement is handled through **liquidity-backed pools and transaction 
 
 ---
 
+
+## FIGMA LINK
+
+https://www.figma.com/design/4OtJbJMCL9PDjyl7Pse7J5/Untitled?node-id=0-1&p=f&t=SAeRF5q4Bdt6eZub-0
+
 ## Problem Statement
 
 Existing crypto payment systems face several limitations:
@@ -142,9 +147,6 @@ It improves:
 
 ---
 
-## FIGMA LINK
-
-https://www.figma.com/design/4OtJbJMCL9PDjyl7Pse7J5/Untitled?node-id=0-1&p=f&t=SAeRF5q4Bdt6eZub-0
 
 ## License
 
