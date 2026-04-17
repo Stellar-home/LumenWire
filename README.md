@@ -1,8 +1,8 @@
-# Stellar LiquiBridge
+# LumenWire
 
 ## Overview
 
-**Stellar LiquiBridge** is a fintech payment infrastructure built on the **Stellar blockchain network** that enables seamless cross-currency settlements between crypto and fiat (Nigerian Naira).
+**LumenWire** is a fintech payment infrastructure built on the **Stellar blockchain network** that enables seamless cross-currency settlements between crypto and fiat (Nigerian Naira).
 
 It introduces a **dual liquidity pool architecture** that allows users to send cryptocurrency while recipients receive instant naira payouts directly into any Nigerian bank accounts — and vice versa — without relying on instant API-based crypto-to-fiat conversion.
 
@@ -26,7 +26,7 @@ These challenges prevent crypto from being used effectively for real-world payme
 
 ## Solution
 
-**Stellar LiquiBridge** solves these issues using a **dual liquidity pool system**:
+**LumenWire** solves these issues using a **dual liquidity pool system**:
 
 - A **Crypto Liquidity Pool** for receiving and holding incoming crypto assets  
 - A **Fiat Liquidity Pool** for instant naira payouts to bank accounts  
@@ -120,7 +120,7 @@ This creates a trust-minimized, fast, and reliable payment rail between crypto a
 
 ## Impact
 
-Stellar LiquiBridge bridges the gap between blockchain-based payments and real-world financial systems by introducing a **liquidity-backed settlement model**.
+LumenWire bridges the gap between blockchain-based payments and real-world financial systems by introducing a **liquidity-backed settlement model**.
 
 It improves:
 
